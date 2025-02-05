@@ -1,0 +1,17 @@
+Welcome to BigEndian
+BigEndian is a platform for fabless semiconductor development.  We are passionate leaders committed to driving technological innovation and excellence, based in Bangalore, India.
+
+Endianness refers to the order in which bytes are arranged in memory. Endianness can be either big or small. In a BigEndian system, the most significant byte is stored at the lowest memory address.
+We like to be the most significant semiconductor company, redefining Made in India for the globe.
+Our expertise encompasses the development of high-performance integrated circuits, microprocessors and custom SoC designs, serving a diverse range of industries, including industrial, enterprise, consumer electronics and, automotive.
+We pride ourselves on building products that meet the highest standards of performance and reliability.
+Our BigEndian team works collaboratively to push the boundaries of technology, ensuring our solutions are at the forefront of the market. 
+With a relentless focus on quality and customer satisfaction, BigEndian is your trusted partner in shaping the future of electronics, providing the essential components that power tomorrow’s technology, today.
+
+Our Values
+We strongly believe that it is people who build organizations and products. We pursue excellence in addressing our customers from idea to reality. Therefore, we keep our customers and employees at the center of everything we do. Building value through Quality, Efficiency and Openness are our core foundations of values and culture
+
+Unwavering standards of quality.
+Driving efficiency through people, processes and systems
+Openness in communication, collaboration and execution.
+Re-define status quo with innovation – both people assessment and customer feedback
